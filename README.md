@@ -2,7 +2,7 @@
 
 Aplikasi web panel Pterodactyl store yang menyediakan layanan server hosting dengan sistem semi-auto provision. Aplikasi ini terintegrasi dengan API Pterodactyl untuk pembuatan server otomatis.
 
-## 🚀 Fitur Utama
+## 🚀 Fitur Utamas
 
 ### Untuk User
 - **Landing Page** - Halaman utama dengan showcase produk
